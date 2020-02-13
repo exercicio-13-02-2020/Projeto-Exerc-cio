@@ -3,3 +3,4 @@ Idade: 25
 Série: Vikings
 Livro: Não gosto
 Filme: Bater ou correr e Rambo
+Mãe: Lucimeia Ribeiro
