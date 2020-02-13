@@ -1,1 +1,5 @@
-Marlon Pedroso
+Nome: Marlon Pedroso
+Idade: 25
+Série: Vikings
+Livro: Não gosto
+Filme: Bater ou correr e Rambo
